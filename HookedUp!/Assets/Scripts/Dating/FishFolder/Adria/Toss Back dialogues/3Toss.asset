@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd93e2c4c467845b590e933a1c98acce, type: 3}
+  m_Name: 3Toss
+  m_EditorClassIdentifier: 
+  dialogue: "Hi, it\u2019s me! \nI see you tossed me back yet again, \nbut that can\u2019t
+    be because you don\u2019t want to date me? \nCan it..? \nSo. \nDate? \n...\nHow
+    about a date? \n"
+  answers:
+  - playerAnswer: DATE
+    nextBlockFrom: {fileID: 11400000, guid: a67d3331f8a6d4be1ad5c63203c501bf, type: 2}
+    color: 2
+  - playerAnswer: TOSS BACK IN THE LAKE
+    nextBlockFrom: {fileID: 11400000, guid: fbace288b1fe746fbb6d9039f96efa04, type: 2}
+    color: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd93e2c4c467845b590e933a1c98acce, type: 3}
+  m_Name: 4Annoy
+  m_EditorClassIdentifier: 
+  dialogue: "I do..? \nI\u2019m sorry\u2026\nOh, look how the time flies! \nI wish
+    this moment could last forever, \nbut I\u2019ve got to go. \nDon\u2019t be shy
+    to catch me again! \nI\u2019d love to hook up with you some other time. \nBye
+    bye! \n"
+  answers: []

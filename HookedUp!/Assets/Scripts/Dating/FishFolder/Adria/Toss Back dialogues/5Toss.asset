@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd93e2c4c467845b590e933a1c98acce, type: 3}
+  m_Name: 5Toss
+  m_EditorClassIdentifier: 
+  dialogue: "\u2026 \nHi. \nIt\u2019s me. \nAdria. \nBut you know that already, right?
+    \nYou remember me, right? \nI guess you just really don\u2019t like me. \n\u2026
+    \nI\u2019m sorry. \nI don\u2019t know what I did to make you hate me so, but\u2026\nI\u2019m
+    sorry. \nI came on too strong. \nI was a little overly excited. \n\u2026 \nMaybe
+    you\u2019re just not that into fish. \nI understand.\nI\u2019ll leave you be.
+    \nYou won\u2019t see me any more. \nGoodbye. "
+  answers:
+  - playerAnswer: Let her go
+    nextBlockFrom: {fileID: 0}
+    color: 2
+  - playerAnswer: Please, go on a date with me!
+    nextBlockFrom: {fileID: 11400000, guid: a67d3331f8a6d4be1ad5c63203c501bf, type: 2}
+    color: 0

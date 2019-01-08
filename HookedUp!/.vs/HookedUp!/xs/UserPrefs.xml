@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{CAC34528-5A1B-00A4-A9AA-41D6CD2D49CB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Fishing/Fish.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Fishing/Fish.cs" Line="208" Column="25" />
+      <File FileName="Assets/Scripts/Fishing/Rod.cs" Line="204" Column="100" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="96" Column="9" />
+      <File FileName="Assets/Scripts/Dating/FishFile.cs" Line="18" Column="27" />
+      <File FileName="Assets/Scripts/Dating/DialogueManager.cs" Line="264" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HookedUp_221 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

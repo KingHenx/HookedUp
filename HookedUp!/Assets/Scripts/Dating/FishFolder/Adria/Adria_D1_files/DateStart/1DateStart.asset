@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd93e2c4c467845b590e933a1c98acce, type: 3}
+  m_Name: 1DateStart
+  m_EditorClassIdentifier: 
+  dialogue: "You said yes? \nYes, this is the best day of my life! \nI\u2019ve been
+    dreaming about this ever since I first saw you! \nOh, I\u2019m getting all kinds
+    of nervous. \nI\u2019ve never been on a date, \nmuch less with a human. \nWhat
+    are you supposed to do on a date? \nTell about yourself? \n\u2026 \nBut I\u2019m
+    really not that interesting\u2026 \nI know! \nYou\u2019re very interesting! \nYes,
+    tell me about you! \nHow would you describe yourself? \n"
+  answers:
+  - playerAnswer: I enjoy making others smile
+    nextBlockFrom: {fileID: 11400000, guid: 19b392fa9c5344e79bcc39489bd56a14, type: 2}
+    color: 2
+  - playerAnswer: I like telling people what to do
+    nextBlockFrom: {fileID: 11400000, guid: f3b7daa57e0884e808437065a726e0db, type: 2}
+    color: 0
+  - playerAnswer: "I\u2019m really good at fishing"
+    nextBlockFrom: {fileID: 11400000, guid: 7a7a2643123324c7392bd716fdc76e7c, type: 2}
+    color: 1

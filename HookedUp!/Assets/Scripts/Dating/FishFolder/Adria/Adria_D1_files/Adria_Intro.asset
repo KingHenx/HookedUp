@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd93e2c4c467845b590e933a1c98acce, type: 3}
+  m_Name: Adria_Intro
+  m_EditorClassIdentifier: 
+  dialogue: "Finally! You\u2019ve managed to catch me! \nI\u2019ve been following
+    you for a while - \never since you arrived at this lake \n- but I was too shy
+    to come and talk to you, \nbut you finally approached me! \nOh, where are my manners?
+    \nMy name is Adria! \nNice to meet you! \nSo forthcoming with your approach, \nAnd
+    yet so shy face to face. \nIt\u2019s almost like you\u2019ve never talked to a
+    fish. \nHm, we need a way to break the ice. \nOh, I know! \nI like you. \nSo\u2026
+    \nHow about a date? \nWell, it\u2019s not good to keep a lady waiting. \nWhat
+    do you say? \n"
+  answers:
+  - playerAnswer: DATE
+    nextBlockFrom: {fileID: 11400000, guid: a67d3331f8a6d4be1ad5c63203c501bf, type: 2}
+    color: 2
+  - playerAnswer: TOSS BACK IN THE LAKE
+    nextBlockFrom: {fileID: 11400000, guid: a946eb7c48c0f4ea79ee90774a0af080, type: 2}
+    color: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2215635a1371f4a79bf8b45be3429aab, type: 3}
+  m_Name: Adria
+  m_EditorClassIdentifier: 
+  whatFish: 1
+  dateProgress: 0
+  redAnswers: 4
+  blueAnswers: 0
+  greenAnswers: 2
+  dates:
+  - {fileID: 11400000, guid: c475ac01a222c4c8c83a3dd0bf5ed1ce, type: 2}
+  - {fileID: 11400000, guid: 80783b3742bfb4f9ba25296d3dfcd2e0, type: 2}
+  - {fileID: 11400000, guid: 736b930c44d304f42a08adf327b97f0c, type: 2}
+  - {fileID: 11400000, guid: ed1bddfdbbfe54cb9acc9e65fd6d34ad, type: 2}
+  - {fileID: 11400000, guid: dfe2409ef63914a60b23b2e8a073345c, type: 2}
+  - {fileID: 11400000, guid: 7af9d955e09404cd8b1c8df8680fd140, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd93e2c4c467845b590e933a1c98acce, type: 3}
+  m_Name: 3StillFishing
+  m_EditorClassIdentifier: 
+  dialogue: "Seems rather realistic. \nYou\u2019re so cool! \nI feel like\u2026 \nI\u2019m
+    starting to fall for you. *blushes* \nWhat about you? \nHow do you feel about
+    me?\n"
+  answers:
+  - playerAnswer: I enjoy spending time with you
+    nextBlockFrom: {fileID: 11400000, guid: b958d1ef4a2ef4693ad74bfdd95b7211, type: 2}
+    color: 2
+  - playerAnswer: "I\u2019m in love with you!]"
+    nextBlockFrom: {fileID: 11400000, guid: 3e2ce68c2cc3b40aeaef810f8920bcde, type: 2}
+    color: 1
+  - playerAnswer: You annoy me
+    nextBlockFrom: {fileID: 11400000, guid: e5e9a831f8c8949ad965e47c84a44fd1, type: 2}
+    color: 0
